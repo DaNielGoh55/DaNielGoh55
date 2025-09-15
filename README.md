@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🇭🇮, I’m Daniel. 🫡<br>1️⃣I’m a front-end developer who enjoys building clean, responsive websites.<br>2️⃣I’ve worked with React.js, Next.js, and WordPress.<br>3️⃣I also have experience with SEO tools like Google Search Console and SEMrush to improve site performance. <br>4️⃣I like experimenting with Figma for design ideas and turning them into working websites.<br>5️⃣My focus is always on making sites fast, user-friendly, and easy to maintain.<br>⚡Fun Fact - I'm lazy but I'm work smart<br>
+🇭🇮, I’m Daniel. 🫡<br>1️⃣I’m a front-end developer who enjoys building clean, responsive websites.<br>2️⃣I’ve worked with React.js, Next.js, and WordPress.<br>3️⃣I also have experience with SEO tools like Google Search Console and SEMrush to improve site performance. <br>4️⃣I like experimenting with Figma for design ideas and turning them into working websites.<br>5️⃣My focus is always on making sites fast, user-friendly, and easy to maintain.<br>⚡Fun Fact - I'm lazy but I'm work smart 🧠<br>
 
 
 ## 🌐 Socials:
