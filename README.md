@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🇭🇮, I’m Daniel. 🫡<br>1️⃣I’m a front-end developer who enjoys building clean, responsive websites.<br>2️⃣I’ve worked with React.js, Next.js, and WordPress, and I also have experience with SEO tools like Google Search Console and SEMrush to improve site performance. <br>3️⃣I like experimenting with Figma for design ideas and turning them into working websites.<br>4️⃣My focus is always on making sites fast, user-friendly, and easy to maintain.<br>⚡Fun Fact - I'm lazy but I'm work smart<br>
+🇭🇮, I’m Daniel. 🫡<br>1️⃣I’m a front-end developer who enjoys building clean, responsive websites.<br>2️⃣I’ve worked with React.js, Next.js, and WordPress.<br>3️⃣I also have experience with SEO tools like Google Search Console and SEMrush to improve site performance. <br>4️⃣I like experimenting with Figma for design ideas and turning them into working websites.<br>5️⃣My focus is always on making sites fast, user-friendly, and easy to maintain.<br>⚡Fun Fact - I'm lazy but I'm work smart<br>
 
 
 ## 🌐 Socials:
@@ -17,13 +17,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DaNielGoh55&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-[![](https://visitcount.itsvg.in/api?id=DaNielGoh55&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
